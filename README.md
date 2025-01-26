@@ -1,6 +1,6 @@
 # ClatChain Crypto Checker
 
-A command-line Python tool that fetches current cryptocurrency prices from [CoinGecko](https://www.coingecko.com/en/api) and updates them at a user-defined interval (default: 5 minutes). This script is primarily designed for Windows environments, using `msvcrt` for non-blocking user input. **YOU NEED YOUR OWN COINGECKO API KEY, SO RATE LIMITS ARE NOT EXCEEDED. COINGECKO IS FREE, BUT HAS A PREMIUM PLAN WITH MUCH LOWER RATE LIMITS**
+A command-line Python tool that fetches current cryptocurrency prices from [CoinGecko](https://www.coingecko.com/en/api) and updates them at a user-defined interval (default: 5 minutes). This script is primarily designed for Windows environments, using `msvcrt` for non-blocking user input.
 
 ![clatchain](https://github.com/user-attachments/assets/b7db449d-2e70-4b32-b1ff-298a760b4009)
 
