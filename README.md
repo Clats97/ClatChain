@@ -107,9 +107,12 @@ pip install requests
   - Confirm you are using Windows.  
   - If you are using MacOS or Linux, you need a cross-platform approach for detecting keystrokes (e.g., `select` or `curses` module).
 
-**Author**: Joshus M Clatney (clats97) – Ethical Pentesting Enthusiast 
-**Version**: 1.00  
+**Author**
 
-**Disclaimer**: This tool is provided “as is” for informational purposes only. Always verify prices with reliable sources before making financial decisions.
+Joshua M Clatney (Clats97)
 
-Copyright 2025 Johua M Clatney (Clats97)
+Ethical Pentesting Enthusiast
+
+Copyright 2025 Joshua M Clatney (Clats97) 
+
+**Disclaimer**: This tool is provided “as is” for informational purposes only. Always verify prices with reliable sources before making financial decisions
